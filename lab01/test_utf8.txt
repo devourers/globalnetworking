@@ -1,0 +1,67 @@
+Äóìàþ, ÷òî òåïåðü áóäåò ëåã÷å. Äà è ñàìî êëèåíòñêîå ïðèëîæåíèå ïðîùå — íàì íóæíî ñîçäàòü ñîêåò, ïîäêëþ÷èòüñÿ ê ñåðâåðó ïîñëàòü åìó äàííûå, ïðèíÿòü äàííûå è çàêðûòü ñîåäèíåíèå. Âñå ýòî äåëàåòñÿ òàê:#!/usr/bin/env python # -*- coding: utf-8 -*-ÞÀÔÛ2??13ads5%^@
+
+The largest organisms on Earth
+
+What is the largest organism living on Earth? How about those that are extinct1 now? These questions are trickier2 than they look. Are they about height, mass, volume or maybe length? Sometimes we can see only a small part of an otherwise huge living creature. Other times you can argue3 that a colony of organisms that behaves4 as one creature also needs to be considered5. Let’s at least try to find out what are the largest creatures in some taxonomic kingdoms6 out there.
+
+We’ll start with the animal kingdom. Of all the living animals the largest one (and also the heaviest one) is the majestic7 blue whale. It’s so large that there are no scales8 available to weigh them as a whole. The heaviest blue whale ever recorded was at 190 tonnes, while the longest was about 33 meters long. It still came shorter than a humble lion’s mane jellyfish that is nearly 37 meters long.
+
+The largest animal to walk on Earth today (or a terrestrial9 animal) is, without a doubt10, the African bush elephant. An adult elephant bull11 weighs almost 11 tons, and stands about 4 meters tall. Both the blue whale and the African elephant are very gentle12 giants. Despite this, sadly, both populations were hurt severely13 by humans. Currently both species14 are considered endangered15.
+
+But what about the extinct species? Everyone knows that some dinosaurs were gigantic! And while the dinosaurs aren’t actually extinct (since modern birds belong to the dinosaur clade16 Theropoda), the largest of them we know about only from fossils17. For example, the famous Tyrannosaurus rex, as scientists speculate, was standing roughly 370 cm tall and was over 12 meters in length! The largest exhibited18 skull of T. rex was just about one and a half meters long. A study on Tyrannosaurus bones was made in 2012. It has revealed that T. rex had the strongest bite of any terrestrial animal, ever! A hungry Tyrannosaurus could bite with the force of more than 50.000 Newtons, which is comparable19 to some modern hydraulic press machines. One of the largest dinosaurs known today though is Giraffatitan. It was a large, plant-eating creature. Its mass could exceed20 70 tons and it was over 20 meters long!
+fasfsafafw4242?"42ÀÔöêêöûôôâû
+Other large extinct animals include the species called Palaeoloxodon and Paraceratherium. Those were the distant cousins of modern elephants and rhinos. They were the ones of the largest known mammals to walk the Earth, ever.
+
+Òåêñò äëÿ èçó÷åíèÿ è ïðàêòèêè àíãëèéñêîãî ÿçûêà: ÷òåíèå è ïåðåâîä ñ àíãëèéñêîãî íà ðóññêèé. Óðîâåíü ñëîæíîñòè A2/B1 — Pre-Intermediate. ×èòàéòå âñëóõ, ñòàðàéòåñü ïåðåâîäèòü ñàìîñòîÿòåëüíî.
+Ñàìûå áîëüøèå îðãàíèçìû íà Çåìëå
+
+Êàêîå æèâîå ñóùåñòâî – ñàìîå áîëüøîå íà Çåìëå? À êàê íàñ÷¸ò òåõ, ÷òî óæå âûìåðëè? Ýòè âîïðîñû õèòðåå, ÷åì ìîæåò ïîêàçàòüñÿ íà ïåðâûé âçãëÿä. Ïðî âûñîòó ëè îíè, ïðî ìàññó, îáú¸ì èëè, ìîæåò áûòü, ïðî äëèíó? Áûâàþò ñëó÷àè, êîãäà âèäíî ëèøü íåáîëüøóþ ÷àñòü îãðîìíîãî æèâîãî ñóùåñòâà. Â äðóãèõ ñëó÷àÿõ ìîæíî ïîñïîðèòü, ÷òî êîëîíèÿ îðãàíèçìîâ, âåäóùàÿ ñåáÿ êàê îäíî ñóùåñòâî, òàêæå ìîæåò ó÷àñòâîâàòü â òàêîì ñîðåâíîâàíèè. Äàâàéòå ïî êðàéíåé ìåðå ïîïðîáóåì âûäåëèòü ñàìûõ áîëüøèõ ñóùåñòâ â íåêîòîðûõ òàêñîíîìè÷åñêèõ öàðñòâàõ.
+
+Íà÷í¸ì ñ öàðñòâà æèâîòíûõ. Èç âñåõ ñóùåñòâóþùèõ æèâîòíûõ ñàìîå áîëüøîå (à òàêæå ñàìîå òÿæ¸ëîå) – âåëè÷åñòâåííûé ñèíèé êèò. Îíè íàñòîëüêî îãðîìíû, ÷òî íå ñóùåñòâóåò âåñîâ, ñïîñîáíûõ âçâåñèòü èõ öåëèêîì. Ñàìûé ìàññèâíûé ñèíèé êèò, êîòîðîãî êîãäà-ëèáî âèäåëè, áûë âåñîì îêîëî 190 òîíí, à ñàìûé äëèííûé – îêîëî 33 ìåòðîâ â äëèíó. Òåì íå ìåíåå, îí îêàçàëñÿ êîðî÷å ñêðîìíîé ìåäóçû, âîëîñèñòîé öèàíåè, äëèíà êîòîðîé ñîñòàâèëà ïî÷òè 37 ìåòðîâ.
+
+Ñàìîå áîëüøîå íàçåìíîå æèâîòíîå íà äàííûé ìîìåíò – ýòî, áåç ñîìíåíèÿ, ñàâàííûé ñëîí. Âçðîñëûé ñàìåö ñàâàííîãî ñëîíà âåñèò ïî÷òè ÷òî 11 òîíí, à â âûñîòó îí îêîëî 4 ìåòðîâ. È ñèíèé êèò, è ñàâàííûé ñëîí – àáñîëþòíî áåçîáèäíûå ãèãàíòû. Ê ñîæàëåíèþ, íåñìîòðÿ íà ýòî, ÷åëîâåê íàí¸ñ çíà÷èòåëüíûé âðåä îáåèì ïîïóëÿöèÿì. Íà ñåãîäíÿøíèé äåíü îáà âèäà îòíîñÿòñÿ ê óãðîæàåìûì.
+
+À ÷òî íàñ÷¸ò âûìåðøèõ âèäîâ? Âåäü âñå çíàþò, ÷òî íåêîòîðûå äèíîçàâðû áûëè ïðîñòî îãðîìíûìè! È õîòÿ äèíîçàâðû íà ñàìîì äåëå íå âûìåðëè (òàê êàê ñîâðåìåííûå ïòèöû îòíîñÿòñÿ ê êëàäå äèíîçàâðîâ Theropoda), î ñàìûõ êðóïíûõ èç íèõ ìû çíàåì òîëüêî ïî îêàìåíåëîñòÿì. Íàïðèìåð, çíàìåíèòûé òèðàííîçàâð, êàê ñ÷èòàþò ó÷¸íûå, äîñòèãàë ïðèìåðíî 370 ñì â âûñîòó è áîëåå 12 ìåòðîâ â äëèíó! Ñàìûé áîëüøîé ýêñïîíàò ÷åðåïà «òè-ðåêñà» áûë ðàçìåðîì îêîëî ïîëóòîðà ìåòðîâ. Â 2012 ãîäó íà êîñòÿõ òèðàííîçàâðîâ áûëî ïðîâåäåíî èññëåäîâàíèå. Îíî ïîêàçàëî, ÷òî «òè-ðåêñ» îáëàäàë íàèáîëüøåé ñèëîé óêóñà èç âñåõ íàçåìíûõ æèâîòíûõ âî âñå âðåìåíà! Ãîëîäíûé òèðàííîçàâð ìîã óêóñèòü ñ ñèëîé áîëåå 50000 Íüþòîíîâ, ÷òî ìîæíî ñðàâíèòü ñèëîé íåêîòîðûõ ñîâðåìåííûõ ãèäðàâëè÷åñêèõ ïðåññîâ. Îäèí èç ñàìûõ áîëüøèõ äèíîçàâðîâ, èçâåñòíûõ íà ñåãîäíÿøíèé äåíü, íàçûâàåòñÿ æèðàôôàòèòàíîì. Ýòî áûëî áîëüøîå òðàâîÿäíîå ñóùåñòâî. Åãî ìàññà ìîãëà ïðåâîñõîäèòü 70 òîíí, à äëèíà – áîëåå 20 ìåòðîâ!
+
+Ê äðóãèì âûìåðøèì æèâîòíûì-ãèãàíòàì îòíîñÿò âèäû Palaeoloxodon è Paraceratherium. Ýòî áûëè äàëüíèå ðîäñòâåííèêè ñîâðåìåííûõ ñëîíîâ è íîñîðîãîâ. Îíè áûëè îäíèìè èç ñàìûõ áîëüøèõ ìëåêîïèòàþùèõ, ÷òî êîãäà-ëèáî õîäèëè ïî Çåìëå.
+
+Íî ïîñòîéòå, âåäü æèâîòíûå – íå åäèíñòâåííûå æèâûå ñóùåñòâà íà ïëàíåòå! ×òî íàñ÷¸ò ðàñòåíèé è äðóãèõ, áîëåå ïðîñòûõ îðãàíèçìîâ? Íàïðèìåð, îñèíîâàÿ (òî÷íåå, òîïîëåâàÿ) ðîùà Ïàíäî, íàõîäÿùàÿñÿ â ÑØÀ íà þãå øòàòà Þòà, ñ÷èòàåòñÿ îäíèì îðãàíèçìîì, îáúåäèí¸ííûì åäèíîé êîðíåâîé ñèñòåìîé. Åñëè ýòî äåéñòâèòåëüíî òàê, ðàçìåð Ïàíäî – 43,6 ãåêòàðà èëè 0,43 êì2! Ðîùå ýòîé ïî êðàéíåé ìåðå íåñêîëüêî òûñÿ÷ ëåò, ÷òî äåëàåò å¸ òàêæå îäíèì èç äðåâíåéøèõ æèâûõ îðãàíèçìîâ.
+
+À åñëè âàì õî÷åòñÿ ïîéòè âøèðü, ãðèáêîâàÿ êîëîíèÿ Armillaria ostoyae çàíèìàåò ïî÷òè 9 êì2 â ëåñàõ àìåðèêàíñêîãî øòàòà Îðåãîí! Åñëè ïðåäñòàâèòü ýòó êîëîíèþ öåëûì îðãàíèçìîì, åå ìîæíî ñ÷èòàòü íàèáîëüøèì îðãàíèçìîì â ìèðå ïî çàíèìàåìîé ïëîùàäè.
+
+Ìû ïðîäîëæàåì äåëàòü ìíîæåñòâî îòêðûòèé è ñåãîäíÿ. È, ìîæåò áûòü, çàâòðà ìû íàéä¸ì ÷òî-òî òàêîå, ïî ñðàâíåíèþ ñ ÷åì âñå ýòè âåùè îêàæóòñÿ ìàëåíüêèìè.
+
+The Olympic Games
+
+The Olympic Games is a major international sports competition1 event. Inspired by the Olympic Games of Ancient Greece, the modern Olympics participation2 unites more than 200 nations of the world in a strife3 to be the best at various sports. The competition is held every two years and alternates between ‘summer’ and ‘winter’ sports. Only ‘summer’ types of sport were represented at first.
+
+The first modern4 Olympics were held in Athens in 1859. The event was held by a Greek businessman Evangelis Zappas as an effort5 to support Greek culture. It was repeated again in 1870 and in 1875. Foreigners6 who visited these events liked them very much. International sports competition was a thing that very much resonated7 with the code of conduct8 of Victorian gentlemen.
+
+French historian Pierre de Fredy, Baron de Coubertin, made an effort to preserve9 these competitions. With the help of his English and Greek friends, he established10 the International Olympic Committee in 1894. This organisation still successfully oversees11 modern Olympics nowadays.
+
+The first Olympics under the IOC supervision12 were held in 1896 in Athens. More than 200 sportsmen from 14 nations came to compete for a chance to win international recognition13 and a medal. A silver medal was awarded to the winner in a competition, along with an olive branch and a diploma of a winner. Those who came second were awarded a copper medal and a laurel14 branch. Third place was honorary15 and offered no prize. The competitions were held in 9 disciplines: athletics (jumping and running various distances, as well as running a marathon), cycling, fencing16, gymnastics, swimming, tennis, wrestling, weightlifting, and, curiously enough, shooting a rifle. Additional competition in sailing17 was planned, but cancelled shortly before the event.
+
+Attempts to add some winter sports were made in 1908 and 1920. The first real Winter Olympics were held in 1924, in a French town of Chamonix-Mont-Blanc. The contest was held in 5 different sports: curling, bobsleigh, ice skating, ice hockey and nordic skiing.
+
+At first the games didn’t allow any professional sportsmen to compete. The people behind the competitions thought that training actually gives a participant an unfair advantage18 over any other person that wished to compete. After much debate and controversy19, this restriction20 was finally lifted in 1988.
+
+The Olympics today are one of the biggest possible events of the year. Any country might apply to host it, but preparing for the event is very hard. It usually pays out in the long run21, since the competitions gather much revenue22 off the tourists and advertisements23.
+
+As the IOC was joined by more members, the event also became increasingly political, with various countries boycotting the Olympic Games for various reasons throughout24 the years. The competitions have also been in the middle of many major doping scandals that had quite a few25 competitors disqualified.
+Îëèìïèéñêèå èãðû
+
+Îëèìïèéñêèå èãðû – êðóïíîå ìåæäóíàðîäíîå ñîáûòèå, ïîñâÿù¸ííîå ñïîðòèâíûì ñîðåâíîâàíèÿì. Ñîçäàííîå ïî îáðàçó àíòè÷íûõ Îëèìïèéñêèõ èãð, ó÷àñòèå â ñîðåâíîâàíèè îáúåäèíÿåò áîëåå 200 íàöèé â áîðüáå çà ïðàâî áûòü ëó÷øèìè â îïðåäåë¸ííûõ âèäàõ ñïîðòà. Ñîðåâíîâàíèå ïðîâîäèòñÿ êàæäûå äâà ãîäà, ïðè ýòîì âèäû ñïîðòà ÷åðåäóþòñÿ ìåæäó «ëåòíèìè» è «çèìíèìè». Èçíà÷àëüíî áûëè ïðåäñòàâëåíû òîëüêî «ëåòíèå» âèäû ñïîðòà.
+
+Ïåðâûå ñîâðåìåííûå Îëèìïèéñêèå èãðû ïðîâîäèëèñü â Àôèíàõ â 1859 ãîäó. Ñîáûòèå áûëî îðãàíèçîâàíî ñèëàìè ãðå÷åñêîãî êîììåðñàíòà Åâàíãåëèñà Çàïïàñà â ñòðåìëåíèè ïîääåðæàòü ãðå÷åñêóþ êóëüòóðó. Â 1870 è 1875 ãîäàõ èõ ïîâòîðèëè âíîâü. Ïîñåùàâøèì èõ èíîñòðàíöàì ñîñòÿçàíèÿ ÷ðåçâû÷àéíî ïîíðàâèëèñü. Ìåæäóíàðîäíîå ñïîðòèâíîå ñîðåâíîâàíèå êàê ÿâëåíèå î÷åíü ðåçîíèðîâàëî ñ êîäåêñîì ïîâåäåíèÿ âèêòîðèàíñêîãî äæåíòëüìåíà.
+
+Ôðàíöóçñêèé èñòîðèê Ïüåð äå Ôðåäè, áàðîí äå Êóáåðòåí, ïîïûòàëñÿ ñîõðàíèòü ýòè ñîðåâíîâàíèÿ. Ñ ïîìîùüþ ñâîèõ äðóçåé èç Àíãëèè è Ãðåöèè â 1894 ãîäó îí îðãàíèçîâàë Ìåæäóíàðîäíûé îëèìïèéñêèé êîìèòåò. Ýòà îðãàíèçàöèÿ óñïåøíî êîíòðîëèðóåò ïðîâåäåíèå ñîâðåìåííûõ Îëèìïèàä è ïîíûíå.
+
+Ïåðâàÿ Îëèìïèàäà ïîä ýãèäîé ÌÎÊ áûëà ïðîâåäåíà â Àôèíàõ â 1896 ãîäó. Áîëåå 200 ñïîðòñìåíîâ èç 14 ãîñóäàðñòâ ñîáðàëèñü, ÷òîáû ïîñîðåâíîâàòüñÿ çà øàíñ ïîëó÷èòü âñåìèðíóþ èçâåñòíîñòü è âûèãðàòü ìåäàëü. Ïîáåäèâøåìó â êàêîé-ëèáî êàòåãîðèè âðó÷àëàñü ñåðåáðÿíàÿ ìåäàëü è îëèâêîâàÿ âåòâü, à òàêæå ãðàìîòà ïîáåäèòåëÿ. Âòîðîå ìåñòî íàãðàæäàëîñü ìåäíîé ìåäàëüþ è ëàâðîâîé âåòâüþ. Òðåòüå ìåñòî áûëî ïî÷¸òíûì è íå íàãðàæäàëîñü. Ñîðåâíîâàíèÿ ïðîâîäèëèñü â äåâÿòè äèñöèïëèíàõ: ë¸ãêàÿ àòëåòèêà (ïðûæêè è áåã íà ðàçëè÷íûå äèñòàíöèè, à òàêæå ìàðàôîíñêèé çàáåã), âåëîñïîðò, ôåõòîâàíèå, ãèìíàñòèêà, ïëàâàíèå, òåííèñ, áîðüáà, òÿæ¸ëàÿ àòëåòèêà è, ÷òî èíòåðåñíî, ñòðåëüáà èç ðóæåé. Äîïîëíèòåëüíî ïëàíèðîâàëîñü ñîñòÿçàíèå â ïàðóñíîì ñïîðòå, íî áûëî îòìåíåíî íåçàäîëãî äî îòêðûòèÿ ñîðåâíîâàíèé.
+
+Ïîïûòêè äîáàâèòü íåêîòîðûå çèìíèå âèäû ñïîðòà áûëè áûëè ñäåëàíû â 1908 è 1920 ãîäàõ. Ïåðâûå íàñòîÿùèå Çèìíèå Îëèìïèéñêèå èãðû áûëè ïðîâåäåíû â 1924 ãîäó âî ôðàíöóçñêîì ãîðîäå Øàìîíè-Ìîí-Áëàí. Ñîñòÿçàíèå âêëþ÷àëî â ñåáÿ 5 ðàçëè÷íûõ âèäîâ ñïîðòà: ê¸ðëèíã, áîáñëåé, êîíüêîáåæíûé ñïîðò, õîêêåé è òàê íàçûâàåìûå «ñåâåðíûå äèñöèïëèíû» (âêëþ÷àþùèå â ñåáÿ ëûæíûå ãîíêè, ïðûæêè ñ òðàìïëèíîâ, ëûæíîå äâîåáîðüå è ò.ï.).
+
+Èçíà÷àëüíî ó÷àñòèå â èãðàõ íå ðàçðåøàëîñü ïðîôåññèîíàëüíûì ñïîðòñìåíàì. Îðãàíèçàòîðû ñîðåâíîâàíèé ñ÷èòàëè, ÷òî òðåíèðîâêà ìîæåò äàâàòü ó÷àñòíèêó íå÷åñòíîå ïðåèìóùåñòâî ïåðåä äðóãèìè ëþäüìè, êîòîðûå õîòåëè áû ïîó÷àñòâîâàòü. Ïîñëå ìíîæåñòâà æàðêèõ è ïðîòèâîðå÷èâûõ äåáàòîâ ýòî îãðàíè÷åíèå áûëî, íàêîíåö, ñíÿòî – â 1988 ãîäó.
+
+Îëèìïèàäà ñåãîäíÿ – îäíî èç ñàìûõ ÿðêèõ âîçìîæíûõ ñîáûòèé ãîäà. Ëþáàÿ ñòðàíà ìîæåò ïîäàòü çàÿâêó íà îðãàíèçàöèþ Îëèìïèàäû, íî ïîäãîòîâèòüñÿ ê íåé ÷ðåçâû÷àéíî íåëåãêî. Â ïåðñïåêòèâå îáû÷íî îíà îêóïàåòñÿ, ïîñêîëüêó ñîðåâíîâàíèÿ ïðèíîñÿò îãðîìíûé äîõîä çà ñ÷åò òóðèñòîâ è ðåêëàìû.
+
+Ñ òå÷åíèåì âðåìåíè â ÌÎÊ âñòóïàåò âñ¸ áîëüøå ñòðàí, è ñàìè ñîðåâíîâàíèÿ, êîíå÷íî æå, âñ¸ áîëüøå ïîëèòèçèðóþòñÿ: çà ãîäû ñóùåñòâîâàíèÿ îðãàíèçàöèè ìíîæåñòâî ñòðàí áîéêîòèðîâàëî Îëèìïèàäû ïî ñàìûì ðàçëè÷íûì ïðè÷èíàì. Ó÷àñòíèêè òàêæå îêàçûâàëèñü â öåíòðå ìíîæåñòâà ãëîáàëüíûõ äîïèíãîâûõ ñêàíäàëîâ, ðåçóëüòàòîì êîòîðûõ ñòàëî îòñòðàíåíèå áîëüøîãî ÷èñëà àòëåòîâ îò ñîðåâíîâàíèé.

@@ -1,0 +1,13 @@
+
+stat_from_server
+Common statistic: 
+Total word count : 2 
+Without errors: 1/2 
+One error: 1/2 
+Two erros: 0/2
+true_stat
+Common statistic: 
+Total word count : 2 
+Without errors: 1/2 
+One error: 1/2 
+Two erros: 0/2
